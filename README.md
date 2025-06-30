@@ -1,4 +1,4 @@
-# abundance-from-biom
+# Abundance-from-biom
 This file tell you how to get the genera and Species from the BIOM file
 Load & clean your data: Reads in the full microbiome table (microbiome.csv), pulls out only the species-level names (everything starting with s__…), drops any columns that didn’t match, and saves the “species-only” table.
 
